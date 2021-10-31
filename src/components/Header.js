@@ -5,7 +5,7 @@ const Header = props => {
 		<React.Fragment>
 			<nav>
 				<div className="brand-logo header">
-					Tenki no ko
+					Consulta clima por ciudad
 				</div>
 			</nav>
 		</React.Fragment>
